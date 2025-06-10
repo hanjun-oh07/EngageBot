@@ -1,0 +1,20 @@
+{
+    "users": {
+        "test": {
+            "id": "test",
+            "pw": "3663",
+            "nationality": "Korea",
+            "age": 12,
+            "sex": "Male",
+            "language_level": "Beginner"
+        },
+        "Kor_student": {
+            "id": "Kor_student",
+            "pw": "3663",
+            "nationality": "Korea, republic of",
+            "age": 16,
+            "sex": "Male",
+            "language_level": "Beginner"
+        }
+    }
+}
